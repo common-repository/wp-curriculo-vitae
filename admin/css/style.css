@@ -1,0 +1,11 @@
+.aguardando {
+    background-color: lightgreen !important;
+}
+
+.aprovado {
+    background-color: lightblue !important;
+}
+
+.reprovado {
+    background-color: lightcoral !important;
+}
